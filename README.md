@@ -28,13 +28,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br/>
-
-### Languages and Tools 🛠 
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-
-<br/>
-
 ---
 
  ### ⭐️ From [estanislaoalfonso](https://github.com/estanislaoalfonso) ### 
